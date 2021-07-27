@@ -10,7 +10,7 @@ if your laravel is > 5.4 you can skip the two steps (2, 3) below (Package Auto D
 1.  You can install the package via composer:
 
 ```bash
-composer require devinweb/payment
+composer require broqit/payment
 ```
 
 2. Open your `config/app.php` and add the following to the providers array
